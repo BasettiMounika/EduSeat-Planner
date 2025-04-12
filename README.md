@@ -65,7 +65,7 @@ The app should now be running at `http://localhost:5000/` 🚀
 ---
 
 ## 👥 Contributors  
-- **Basetti Mounika** - [GitHub](https://github.com/BasettiMounika) | [LinkedIn](https://github.com/BasettiMounika)    
+- **Basetti Mounika** - [GitHub](https://github.com/BasettiMounika) | [LinkedIn](https://www.linkedin.com/in/mounikabasetti/)    
 
 ---
 
